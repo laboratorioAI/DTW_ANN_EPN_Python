@@ -18,7 +18,7 @@
 
 ## Instructions for Python:
 
-1. Install ANACONDA and Spyder 4.0.1
+1. Install ANACONDA and Spyder 4.1.3
     ![GitHub Repository](filesReadme/I1p.png "Step 1")
 
 2. Create a virtual environment. 
