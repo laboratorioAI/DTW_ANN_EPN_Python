@@ -7,7 +7,6 @@
 > The “Hand Gesture Model Example PYTHON” folder contains the Python code to manage the EMG Database. Each script contains a description of its function as well as the copyright information. If you want to use the dataset and the code for commercial purposes, please contact to the correspondent author of the paper, Marco E. Benalcázar, to the email addresses: 
 
 * marco.benalcazar@epn.edu.ec 
-* marco_benalcazar@hotmail.com
 
 ## Description
 
